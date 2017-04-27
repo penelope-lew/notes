@@ -1,0 +1,2 @@
+# notes
+Notations on R
